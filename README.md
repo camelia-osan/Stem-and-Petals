@@ -52,3 +52,7 @@ This project was created to practice:
 * Theme customization
 * UI/UX consistency
 * Static website deployment
+
+
+### Preview
+![](screenshots/Views.png)
