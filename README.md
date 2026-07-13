@@ -1,5 +1,5 @@
 # Stem & Petals - Flower Shop
-Frontend Development - WordPress
+Frontend Development - WordPress, CSS
 
 
 ### Description
