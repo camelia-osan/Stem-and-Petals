@@ -3,29 +3,7 @@ Frontend Development - WordPress
 
 
 ### Description
-A responsive multi-page flower shop catalog website created with **WordPress** using the **Astra** theme and custom patterns. The project showcases a complete small business website with multiple product collections, informational pages and a contact form.
-
-
-### Features
-* Responsive design for desktop, tablet and mobile devices
-* 12 custom-designed pages
-* Multiple bouquet collection pages
-* Custom cards, indoor plants and gardening sections
-* Contact page with business information and inquiry form
-* Consistent branding and visual identity
-* Smooth fade-in animations on loading
-* Interactive navigation and hover effects
-
-
-### Tools
-* WordPress
-* Astra Theme
-* Gutenberg Block Editor
-* Custom Patterns
-* Custom CSS
-* WPForms
-* Canva (custom graphics and illustrations)
-* Simply Static (static site generation)
+A responsive multi-page flower shop catalog website created with **WordPress** using the **Astra** theme and custom patterns. The project showcases a small fictional business website with multiple product collections, informational pages and a contact form.
 
 
 ### Structure
@@ -43,14 +21,35 @@ The website contains 12 pages:
 * Gardening
 * Contact
 
+  
+### Features
+* Multiple bouquet collection pages
+* Custom cards, indoor plants and gardening sections
+* Contact page with business information and inquiry form
+* Smooth fade-in animations on loading
+* Interactive navigation and hover effects
+* Consistent branding and visual identity
+* Responsive design for desktop, tablet and mobile devices
+
+
+### Tools
+* WordPress
+* Astra Theme
+* Gutenberg Block Editor
+* Custom Patterns
+* Custom CSS
+* WPForms
+* Canva (custom graphics and illustrations)
+* Simply Static (static site generation)
+
 
 ### Purpose
 This project was created to practice:
 * WordPress website development
-* Responsive web design
 * Layout composition with Gutenberg blocks
 * Theme customization
 * UI/UX consistency
+* Responsive web design
 * Static website deployment
 
 
