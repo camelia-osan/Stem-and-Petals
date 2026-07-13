@@ -55,4 +55,4 @@ This project was created to practice:
 
 
 ### Preview
-![](screenshots/Views.png)
+![](Views.png)
